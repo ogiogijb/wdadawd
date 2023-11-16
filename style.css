@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+header b{
+
+}
+header  { border: 2px #B8860B solid;
+    border-radius: 10px;
+
+}
+header a{
+ color: #B8860B;
+}
+h1{ color: #B8860B; border: 2px solid;
+ border-radius: 10px;
+
+}
+footer{ color: navy;border: 2px solid; border-radius: 10px;
+
+}
+nav{ border: navy 2px solid; border-radius: 10px; 
+
+}
+.tf2{ border: 2px navy solid; border-radius: 10px;
+
+}
+h2 {
+color: navy;
+}
+.deez-nuts{ 
+ border:#B8860B 2px solid; border-radius: 10px;
+}
+.idn{ border: navy 2px solid; border-radius: 10px; text-decoration:none ;
+
+}
